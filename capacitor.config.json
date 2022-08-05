@@ -1,0 +1,11 @@
+{
+  "appId": "com.dmme",
+  "appName": "dmme",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
